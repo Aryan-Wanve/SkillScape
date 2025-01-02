@@ -103,3 +103,4 @@ Solution:
 ---
 
 By creating SkillSync, we foster a system that modernizes education, equips students with job-ready skills, and strengthens the synergy between academia and industry.
+
