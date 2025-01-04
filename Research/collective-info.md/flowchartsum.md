@@ -11,7 +11,6 @@ SkillSync is a cutting-edge platform designed to bridge the gap between academic
 Our vision is to revolutionize the way students transition into the workforce by providing a comprehensive platform that focuses on skill development, real-world experience, and professional networking. We aim to become the go-to platform for students and companies alike, ensuring that every student is industry-ready and every company finds the right talent efficiently.
 
 ---
-
 ## Key Features
 
 ### Courses
